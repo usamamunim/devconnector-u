@@ -1,3 +1,6 @@
 {
-  "mongoURI": "mongodb+srv://usama123:usama123@cluster-mern-bradtraver.1pzjmrj.mongodb.net/?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://usama123:usama123@cluster-mern-bradtraver.1pzjmrj.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "mySecret",
+  "githubClientId": "343eeb7f1414cfd14614",
+  "githubSecret": "ff8071b4791bd736f77ef1ac29bd54d4073996a9"
 }
