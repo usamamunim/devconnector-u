@@ -26,8 +26,8 @@ function App() {
           <div className="container">
             <Routes>
               <Route exact path="/" element={<Landing />} />
-              <Route path="login" element={<Login />} />
-              <Route path="register" element={<Register />} />
+              <Route path="/login" element={<Login />} />
+              <Route path="/register" element={<Register />} />
             </Routes>
           </div>
         </Fragment>
